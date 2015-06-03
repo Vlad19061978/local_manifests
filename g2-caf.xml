@@ -14,9 +14,12 @@
 #LG KERNEL
 <project name="danielstuart14/android_kernel_lge_msm8974" path="kernel/lge/msm8974" remote="github" revision="cm-12.1-caf"/>
 
-#LG BLOBS
+#LG VENDOR
 <project name="danielstuart14/proprietary_vendor_lge" path="vendor/lge/" remote="github" revision="cm-12.1-caf"/>
 
 #DBTOOL
 <project name="danielstuart14/dtbtool" path="dtbtool/" remote="github" revision="master"/>
+
+#MANIFEST AUTO-UPDATE
+<project name="danielstuart14/.repo_local_manifests" path=".repo/local_manifests" remote="github" revision="master"/>
 </manifest>
