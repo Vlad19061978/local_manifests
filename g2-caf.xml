@@ -20,6 +20,9 @@
 #DBTOOL
 <project name="danielstuart14/dtbtool" path="dtbtool/" remote="github" revision="master"/>
 
+#F2FS
+<project name="danielstuart14/android_external_f2fs-tools" path="external/f2fs-tools" remote="github" revision="cm-12.1"/>
+
 #MANIFEST AUTO-UPDATE
 <project name="danielstuart14/.repo_local_manifests" path=".repo/local_manifests" remote="github" revision="cm-12.1-caf"/>
 </manifest>
