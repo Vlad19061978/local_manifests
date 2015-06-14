@@ -18,5 +18,5 @@
 <project name="lg-devs/proprietary_vendor_lge" path="vendor/lge/" remote="github" revision="cm-12.1-caf"/>
 
 #MANIFEST AUTO-UPDATE
-<project name="lg-devs/.repo_local_manifests" path=".repo/local_manifests" remote="github" revision="cm-12.1-caf"/>
+<project name="Vlad19061978/.repo_local_manifests" path=".repo/local_manifests" remote="github" revision="cm-12.1-caf"/>
 </manifest>
